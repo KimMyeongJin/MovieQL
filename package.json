@@ -4,9 +4,10 @@
   "description": "Movie API with Graphql",
   "main": "index.js",
   "repository": "https://github.com/KimMyeongJin/MovieQL",
-  "author": "Nicolas Serrano Arevalo<nico@nomadcoders.co>",
+  "author": "Kim Myeong Jin<ab9010@naver.com>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "graphql-yoga": "^1.17.4",
     "node-fetch": "^2.6.0"
   },

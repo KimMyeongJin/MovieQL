@@ -1,9 +1,9 @@
-import { getMovies } from "./db"
+import { getMovies } from "./db";
 
 const resolvers = {
-    Query: {
-            movies: () => getMovies()
-    }
+  Query: {
+    movies: () => getMovies()
+  }
 };
 
 export default resolvers;
