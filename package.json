@@ -7,7 +7,7 @@
   "author": "Kim Myeong Jin<ab9010@naver.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.17.4",
     "node-fetch": "^2.6.0"
   },
